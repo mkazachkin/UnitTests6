@@ -1,0 +1,6 @@
+************* Module num_lists_test
+num_lists_test.py:14:0: R0904: Too many public methods (22/20) (too-many-public-methods)
+
+------------------------------------------------------------------
+Your code has been rated at 9.94/10 (previous run: 9.94/10, +0.00)
+
